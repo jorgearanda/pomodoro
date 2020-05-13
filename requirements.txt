@@ -1,3 +1,4 @@
 pyobjc-core==6.1
 pyobjc-framework-Cocoa==6.1
 rumps==0.3.0
+setuptools==44.1.0
